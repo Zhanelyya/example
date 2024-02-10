@@ -8,7 +8,6 @@ public class Car {
         this.model = model;
         this.year = year;
     }
-
     public void displayInfo() {
         System.out.println("Car: " + brand + " " + model + ", Year: " + year);
     }
